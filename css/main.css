@@ -1,0 +1,379 @@
+.link-color {
+    color: #7EB693;
+}
+.link-colors {
+    color: #274C5B;
+}
+
+.icon {
+    background-image: url(../src/assets/icons/bgicon.svg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 10px;
+}
+
+.btn-outline-info {
+    color: #D4D4D4;
+    border-color: #D4D4D4;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 2px solid #D4D4D4;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 50px;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.Roboto19px-400 {
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+.Roboto25px-400 {
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.Roboto40px-400 {
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.Roboto22px-400 {
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 32px;
+}
+.Roboto18px-400 {
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    
+}
+.Roboto70px-700 {
+    font-family: 'Roboto';
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 82px;
+    color: #274C5B;
+    
+}
+.Roboto26px-700 {
+    font-family: 'Roboto';
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #274C5B;
+    
+}
+.Roboto23px-700 {
+    font-family: 'Roboto';
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 10px;
+    color: #274C5B;
+    
+}
+.Roboto45px-700 {
+    font-family: 'Roboto';
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 58px;
+    color: #274C5B;
+    
+}
+.Roboto30px-700 {
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 58px;
+    color: #274C5B;
+    
+}
+
+.Yellowtail36px-400 {
+    font-family: 'Yellowtail';
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 64px;
+    color: #7EB693;
+}
+
+.OpenSans18px-400 {
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.36px;
+}
+.OpenSans18px-600 {
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.36px;
+}
+.OpenSans15px-400 {
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.36px;
+}
+.OpenSans18px-600 {
+    font-family: 'Open Sans';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.heroimage {
+    background-image: url(../src/assets/images/heroimage.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button {
+    
+    border-radius: 16px ;
+    padding: 25px 10px 25px 20px;
+    border: none;
+    transition: 0.5s;
+}
+.button:hover {
+    opacity: 0.5;
+}
+
+.iconwith {
+    width: 30px;
+    height: 30px;
+}
+
+
+
+.secondimage1 {
+    
+    margin: 140px 0;
+    height: 378px;
+    background-image: url(../src/assets/images/naturalimage.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.secondimage2 {
+    
+    margin: 140px 0;
+    height: 378px;
+    background-image: url(../src/assets/images/offerimage.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.aboutusbg {
+    background-color: #F9F8F8;
+}
+
+.textcolor {
+    color: #525C60;
+}
+
+
+
+.borderradius15{
+    border-radius: 15px;
+}
+
+.borderradius5{
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.borderradius5:hover {
+    opacity: 0.5;
+}
+.borderradius30{
+    border-radius: 30px;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: #d4d4d4;
+}
+
+.cir {
+    padding: 80px;
+    background-color: #F1F1F1;
+    border-radius: 50%;
+}
+
+
+.paddingcirul {
+    padding: 6px 4px 4px 6px;
+    background-color: #7EB693;
+    border-radius: 50%;
+}
+
+.testimonialbg {
+    background-image: url(/src/assets/images/Testimonialimage.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgoffer {
+    background-color: #274C5B;
+}
+
+.bgeco {
+    background-color: #fff;
+    
+}
+
+.ecocard {
+    width: 720px;
+    height: 623px;
+    position: absolute;
+    right: 120px;
+    background-color: #ffffff;
+    border-radius: 30px;
+}
+
+
+.bgfrutice {
+    margin: 140px 0;
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/src/assets/images/fruitjuice.png);
+}
+.bgorganic {
+    margin: 140px 0;
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/src/assets/images/organicfood.png);
+}
+.bgnuts {
+    margin: 140px 0;
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/src/assets/images/nuts.png);
+}
+
+.borderradius20px {
+    border-radius: 20px;
+    transition: 0.7s;
+}
+
+.borderradius20px:hover {
+    opacity: 0.5;
+}
+.mt20px {
+    margin-top: 100px;
+}
+
+.bgwhite {
+    background-color: #fff;
+    border: 1px solid #274C5B;
+}
+
+.bgnews1{
+    margin: 140px 0;
+    height: 515px;
+    background-image: url(../src/assets/images/greenery.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.bgnews2{
+    margin: 140px 0;
+    height: 515px;
+    background-image: url(../src/assets/images/tomato2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+
+.newbgwhite {
+    background-color: #fff;
+    border-radius: 30px;
+    padding: 40px;
+    position: relative;
+    top: 130px;
+    box-shadow: 0px 1px  10px 10px rgba(0, 0, 0, 0.14);
+}
+
+.next {
+    background-image: url(https://img.icons8.com/external-others-inmotus-design/1x/external-Right-round-icons-others-inmotus-design-6.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width:10px;
+    height: 35px;
+}
+
+.subscribe {
+    height: 320px;
+    background-image: url(../src/assets/images/limon.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    
+}
+
+.paddingsub {
+    padding: 100px 80px;
+}
+
+.border16px {
+    border-radius: 16px;
+}
+
+.borderright {
+    border-right: 1px solid #7EB693;
+}
+.borderleft {
+    border-left: 1px solid #7EB693;
+}
+.nav-link {
+    transition: 0.5s;
+}
+.nav-link:hover {
+   opacity: 0.5;
+}
